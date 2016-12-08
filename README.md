@@ -9,3 +9,11 @@
   - Feedback for teachers / EDA from you.
   - Feedback from teachers to you about this session.
 
+feedback :
+- practice map + filter
+
+feedback for the course :
+- some days we spend a lot of time re-making what mix did in lectures
+  - e.g. handlebars - plugging in the engine
+  - articulating the different parts of the puzzle fit together
+- hope there will be some holiday challenges
