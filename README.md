@@ -9,3 +9,10 @@
   - Feedback for teachers / EDA from you.
   - Feedback from teachers to you about this session.
 
+feedback :
+- pracitce noticing async
+- practice filter
+- asking more questions plz
+
+feedback for course :
+- exercises - we watch mix do stuff in lecture, not sure how that connected to the exercise sometimes
