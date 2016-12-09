@@ -9,3 +9,9 @@
   - Feedback for teachers / EDA from you.
   - Feedback from teachers to you about this session.
 
+course feedback :
+- starting an exercise during the day and not getting to finish it is frustrating
+- stalling at the end of the day can suck
+  - not sure how to progress  by self
+  - ending day on negative feeling doesn't feel good.
+- hope we get stuff to do over the break

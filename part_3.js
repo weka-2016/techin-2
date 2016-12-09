@@ -23,4 +23,6 @@ var complexObj = {
 
 
 // I want a command which will fetch out piets cheque balance
-var pietsChequeBalance = ???
+var pietsChequeBalance = complexObj.people[0].accounts[1].balance
+
+// pracitce checking how far objects go
