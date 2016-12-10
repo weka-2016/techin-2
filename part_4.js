@@ -4,3 +4,7 @@ var request = require('superagent')
 
 request.get('http://www.nasa.gov/api/satellites/2', aThing)
 
+  function aThing(err,data){
+    if (err) throw err;
+    console.log(data);
+  }
